@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Misko Rusic`
+- **CCID:** `rusic`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+[Kotlin Delete from Database](https://firebase.google.com/docs/firestore/manage-data/delete-data#kotlin)
 
 ## Verbal Collaboration
 
